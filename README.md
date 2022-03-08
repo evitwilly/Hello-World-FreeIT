@@ -19,3 +19,9 @@
 Вуаля!
 
 Зайдите на [страницу репозитория](https://github.com/evitwilly/Hello-World-FreeIT).
+
+Найдите свою ветку:
+
+![my branch](https://github.com/evitwilly/Hello-World-FreeIT/blob/main/img5.png)
+
+Поздравляю! Вы успешно справились! [Рассказажите мне об этом](https://t.me/evitwilly).
