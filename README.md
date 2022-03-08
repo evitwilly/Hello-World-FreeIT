@@ -14,7 +14,8 @@
 После этого запушите ее:
 
 ![push branch: step 1](https://github.com/evitwilly/Hello-World-FreeIT/blob/main/img3.png)
-![push branch: step 2](https://github.com/evitwilly/Hello-World-FreeIT/blob/main/img4.png)
+![push branch: step 2](https://github.com/evitwilly/Hello-World-FreeIT/blob/main/img6.png)
+![push branch: step 3](https://github.com/evitwilly/Hello-World-FreeIT/blob/main/img4.png)
 
 Вуаля!
 
